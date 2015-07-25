@@ -82,6 +82,13 @@
 
  - Daemons/gods with their own will
 
+## World map
+ 
+ - World map is not known at first.
+ 	- Can't you just buy a map? Might want to figure out a lore reason for this. Like the world changes continously, or the world is just generaly not explored.
+ 	- Maps might be ridicously expensive, like all written materials were in medivial times.
+ - Conversations can give hints on the map were it might be, but not perfectly plot it's location.
+
 ## Spells
 
  - Leach daemons energy through the channeling of items bound to the god of the other realm.
